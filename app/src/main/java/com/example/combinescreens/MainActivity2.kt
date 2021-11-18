@@ -1,8 +1,12 @@
 package com.example.combinescreens
 
 import android.os.Bundle
+import android.view.View.VISIBLE
+import android.widget.Button
+import android.widget.LinearLayout
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
@@ -12,10 +16,9 @@ import com.example.combinescreens.databinding.ActivityMain2Binding
 class MainActivity2 : AppCompatActivity() {
 
     private lateinit var binding: ActivityMain2Binding
-    private const val NUM_PAGES = 5
+    private val NUM_PAGES = 5
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         binding = ActivityMain2Binding.inflate(layoutInflater)
         setContentView(binding.root)
 

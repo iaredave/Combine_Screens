@@ -4,17 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Screen1"
-    android:id="@+id/popuplayout"
-    android:background="@drawable/borderline">
+    tools:context=".Screen2"
+    android:background="@drawable/borderline2">
 
     <TextView
-        android:id="@+id/firstscreen"
+        android:id="@+id/thirdscreen"
         android:layout_width="143dp"
         android:layout_height="103dp"
         android:textSize="34dp"
-        android:text="Screen one"
-        android:textColor="@color/white"
+        android:text="Screen three"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

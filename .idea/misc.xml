@@ -7,12 +7,18 @@
         <entry key="app/src/main/res/drawable/borderline2.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/dummy_screen1.xml" value="0.19021739130434784" />
+        <entry key="app/src/main/res/layout/dummy_screen2.xml" value="0.19021739130434784" />
+        <entry key="app/src/main/res/layout/dummy_screen3.xml" value="0.19021739130434784" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.13072916666666667" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.13072916666666667" />
         <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.13072916666666667" />
         <entry key="app/src/main/res/layout/fragment_screen1.xml" value="0.109375" />
         <entry key="app/src/main/res/layout/fragment_screen2.xml" value="0.109375" />
+        <entry key="app/src/main/res/layout/fragment_screen3.xml" value="0.12454710144927536" />
         <entry key="app/src/main/res/layout/fragment_screen_one.xml" value="0.109375" />
+        <entry key="app/src/main/res/layout/item_view_pager.xml" value="0.19021739130434784" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.25052083333333336" />
         <entry key="app/src/main/res/menu/sort_menu.xml" value="0.24791666666666667" />
       </map>
     </option>
